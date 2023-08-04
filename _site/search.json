@@ -1,6 +1,18 @@
 [
   
     {
+      "title"    : "Google I/O Extended Hackathon",
+      "title-lower"    : "google i/o extended hackathon",
+      "sub-titile" : "",
+      "sub-titile-lower" : "",
+      "categories" : "SwiftDjangoAIiOS",
+      "tags"     : "",
+      "url"      : "/swift/django/ai/ios/2023/07/31/hackathon.html",
+      "date"     : "2023-07-31 08:33:36 -0700",
+      "content"     : "🌮  The team won 3rd place! I participated in a Google I/O Extended Hackathon hosted by the Google Developer Groups of Central Florida. 🥑It was fun, exciting, and challenging to hack away and develo..."
+    } ,
+  
+    {
       "title"    : "Angular with .NET Web API",
       "title-lower"    : "angular with .net web api",
       "sub-titile" : "",
