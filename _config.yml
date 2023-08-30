@@ -1,7 +1,7 @@
 title: Israel Soto
 author: GitHub User
 email: israelsotodevlabs@gmail.com
-description: Israel Soto Portfolio.
+description: Israel Website
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -9,7 +9,7 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Israel Website
+  name: Click here to see Portfolio!
   tagline: Software Engineer. Developer
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
@@ -21,11 +21,13 @@ plainwhite:
     #- home
     - page
     - post
+  
   # generate social links in footer
   social_links:
     twitter: izdevlabs
     github:  radicalhighfives
     linkedIn: in/israelsoto
+    portfolio: http://israelsotodevlabs.com/
     #dribbble: jekyll
     #flickr:   jekyll
     #instagram: jekyll
@@ -55,5 +57,5 @@ plainwhite:
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
-remote_theme: radicalhighfives/radicalhighfives.github.io
+# remote_theme: radicalhighfives/radicalhighfives.github.io
 
